@@ -41,3 +41,8 @@
 
 ⭐ **"Code is like humor. When you have to explain it, it’s bad."** – Cory House  
 🚀 Always striving for **better, cleaner, and more efficient** code!
+
+---
+
+### 추천인
+광운대학교 정보융합학부 박규동 교수
